@@ -1,1 +1,1 @@
-# DsAndAlgo
+# DSA
