@@ -2,13 +2,13 @@
 
 Demonstration of Data Structures & Implementation of Algorithms in Python
 
-# Data Structures
+## Data Structures
 
 * Stack
 * Queue
 * Hash Table
 * Linked List
 
-# Algorithms
+## Algorithms
 
 * GCD (Greatest Common Divisor) : Euclidean/Euclid's Algorithm
