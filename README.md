@@ -12,5 +12,5 @@ Demonstration of Data Structures & Implementation of Algorithms in Python
 ## Algorithms
 
 * GCD (Greatest Common Divisor) : Euclidean/Euclid's Algorithm
-* Coundown Timer using Recursion
+* Countdown Timer using Recursion
 * Power & Factorial funtions using Recursion
